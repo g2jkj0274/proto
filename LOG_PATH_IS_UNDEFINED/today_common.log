@@ -3760,3 +3760,151 @@ open connections:  1 2 3 4 5 6 7 8 9 10 (10)
 10. Connection.getAutoCommit() returned true
 2023-09-01 00:19:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@756fbab1
 2023-09-01 00:19:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:20:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:20:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:20:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:20:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:21:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:21:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:21:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:21:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:22:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:22:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:22:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:22:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:23:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:23:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:23:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:23:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:24:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:24:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:24:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:24:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:25:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:25:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:25:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:25:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:26:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:26:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:26:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:26:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:27:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:27:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:27:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:27:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:28:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:28:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:28:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:28:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:29:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:29:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:29:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:29:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:30:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:30:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:30:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:30:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:31:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:31:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:31:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:31:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:32:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:32:09 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:32:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:32:39 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:33:10 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:33:10 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:33:40 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:33:40 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:34:10 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:34:10 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled (queueDepth=0).
+2023-09-01 00:34:33 [INFO ] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2023-09-01 00:34:33 [DEBUG] o.s.b.a.ApplicationAvailabilityBean - Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2023-09-01 00:34:33 [DEBUG] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@3cbcaa3c, started on Fri Sep 01 00:08:12 KST 2023
+2023-09-01 00:34:33 [DEBUG] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147482623
+2023-09-01 00:34:33 [DEBUG] o.s.c.s.DefaultLifecycleProcessor - Bean 'webServerGracefulShutdown' completed its stop procedure
+2023-09-01 00:34:33 [DEBUG] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase 2147481599
+2023-09-01 00:34:33 [INFO ] o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8012"]
+2023-09-01 00:34:33 [INFO ] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-09-01 00:34:33 [INFO ] o.a.c.c.C.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-09-01 00:34:33 [WARN ] o.a.c.loader.WebappClassLoaderBase - The web application [ROOT] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@17.0.7/jdk.internal.misc.Unsafe.park(Native Method)
+ java.base@17.0.7/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+ java.base@17.0.7/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1672)
+ java.base@17.0.7/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+ java.base@17.0.7/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+ java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+ java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+ java.base@17.0.7/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@17.0.7/java.lang.Thread.run(Thread.java:833)
+2023-09-01 00:34:33 [INFO ] o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8012"]
+2023-09-01 00:34:33 [DEBUG] o.s.c.s.DefaultLifecycleProcessor - Bean 'webServerStartStop' completed its stop procedure
+2023-09-01 00:34:33 [DEBUG] o.s.c.s.DefaultLifecycleProcessor - Stopping beans in phase -2147483647
+2023-09-01 00:34:33 [DEBUG] o.s.c.s.DefaultLifecycleProcessor - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2023-09-01 00:34:33 [DEBUG] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2023-09-01 00:34:33 [DEBUG] o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans
+2023-09-01 00:34:33 [DEBUG] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-09-01 00:34:33 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@42aaa54d: (connection evicted)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+1. Connection closed. {executed in 4ms} 
+open connections:  2 3 4 5 6 7 8 9 10 (9)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+1. Connection.close() returned 
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@7c546c2e: (connection evicted)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+2. Connection closed. {executed in 0ms} 
+open connections:  3 4 5 6 7 8 9 10 (8)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+2. Connection.close() returned 
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@3d696615: (connection evicted)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+3. Connection closed. {executed in 0ms} 
+open connections:  4 5 6 7 8 9 10 (7)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+3. Connection.close() returned 
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@c1e5d14: (connection evicted)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+4. Connection closed. {executed in 0ms} 
+open connections:  5 6 7 8 9 10 (6)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+4. Connection.close() returned 
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@5d46995a: (connection evicted)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+5. Connection closed. {executed in 0ms} 
+open connections:  6 7 8 9 10 (5)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+5. Connection.close() returned 
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@5338344b: (connection evicted)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+6. Connection closed. {executed in 0ms} 
+open connections:  7 8 9 10 (4)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+6. Connection.close() returned 
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@590820a5: (connection evicted)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+7. Connection closed. {executed in 0ms} 
+open connections:  8 9 10 (3)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+7. Connection.close() returned 
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@67cc3995: (connection evicted)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+8. Connection closed. {executed in 0ms} 
+open connections:  9 10 (2)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+8. Connection.close() returned 
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@20f6fc4d: (connection evicted)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+9. Connection closed. {executed in 1ms} 
+open connections:  10 (1)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+9. Connection.close() returned 
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.PoolBase - HikariPool-1 - Closing connection net.sf.log4jdbc.sql.jdbcapi.ConnectionSpy@756fbab1: (connection evicted)
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+10. Connection closed. {executed in 0ms} 
+open connections:  none
+2023-09-01 00:34:33 [INFO ] log4jdbc.log4j2 -  com.zaxxer.hikari.pool.PoolBase.quietlyCloseConnection(PoolBase.java:137)
+10. Connection.close() returned 
+2023-09-01 00:34:33 [DEBUG] com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-09-01 00:34:33 [INFO ] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
