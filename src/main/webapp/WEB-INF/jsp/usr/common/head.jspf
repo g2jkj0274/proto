@@ -299,16 +299,16 @@ ul, li {
 
 <script>
 	$(document)
-			.ready(
-					function() {
-						$(
-								".wrap-box > .menu-banner-box > .top-bar-box > .login-box > .lo-box > a")
-								.click(
-										function() {
-											$(this).siblings(".toggle-menu")
-													.toggleClass("active");
-										});
-					});
+		.ready(
+			function() {
+				$(
+					".wrap-box > .menu-banner-box > .top-bar-box > .login-box > .lo-box > a")
+					.click(
+						function() {
+							$(this).siblings(".toggle-menu")
+								.toggleClass("active");
+						});
+			});
 </script>
 
 </head>
@@ -332,7 +332,7 @@ ul, li {
             </a>
           </li>
           <li class="">
-            <a href="/usr/festival/list">
+            <a href="/usr/festival/f_list">
               <span>축제정보센터</span>
             </a>
             <!--         2차메뉴   -->
@@ -344,7 +344,7 @@ ul, li {
                   </a>
                 </li>
                 <li>
-                  <a href="/usr/map/kakao">
+                  <a href="/usr/map/testkakao">
                     <span>숙소정보</span>
                   </a>
                 </li>

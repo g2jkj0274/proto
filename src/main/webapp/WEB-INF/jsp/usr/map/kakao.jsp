@@ -4,7 +4,7 @@
 <c:set var="pageTitle" value="지도 " />
 <%@ include file="../common/head.jspf"%>
 
-<div id="map" style="width: 500px; height: 400px;"></div>
+<div id="map" style="width: 500px; height: 400px; margin: 100px auto 0"></div>
 
 <!-- 카카오 지도 -->
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=f2e8b8dfe2eeda94b06ca3878c8af6cf"></script>

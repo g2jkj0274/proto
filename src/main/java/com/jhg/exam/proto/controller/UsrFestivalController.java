@@ -24,10 +24,15 @@ public class UsrFestivalController {
 		return "usr/map/kakao";
 	}
 	
-	@RequestMapping("/usr/festival/list")
+	@RequestMapping("/usr/festival/f_list")
 	public String showFestivalList(Model model) {
         List<Festival> festivals = festivalService.getFestivals();
         model.addAttribute("festivals", festivals);
-        return "usr/festival/list"; // Replace with your JSP page path
+        return "usr/festival/f_list";
     }
+	
+	@RequestMapping("/usr/map/testkakao")
+	public String showTestKakaoMap() {
+		return "usr/map/testkakao";
+	}
 }

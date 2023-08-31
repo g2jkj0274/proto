@@ -11,11 +11,13 @@ public class Festival {
 	private int id;
 	private String regDate;
 	private String updateDate;
-	private int memberId;
+	private String picture;
 	private String title;
 	private String body;
-
-	private String extra_writerName;
-	private boolean extra_actorCanDelete;
-	private boolean extra_actorCanModify;
+	private String startDate;
+	private String endDate;
+	private String address;
+	private String inquiryCall;
+	private String siteLink;
+	private String classification; 
 }
